@@ -129,6 +129,8 @@ brew "zsh"
 # Heroku
 brew "heroku-toolbelt"
 brew "parity"
+brew "awscli"
+brew "awsebcli"
 
 # GitHub
 brew "hub"
@@ -147,6 +149,7 @@ brew "ruby-build"
 brew "yarn"
 
 # Databases
+brew "mysql"
 brew "postgres", restart_service: true
 brew "redis", restart_service: true
 EOF

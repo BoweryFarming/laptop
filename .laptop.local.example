@@ -1,0 +1,14 @@
+#!/bin/sh
+
+brew tap caskroom/cask
+brew cask install google-chrome
+brew cask install google-drive
+brew cask install slack
+brew cask install atom
+brew cask install lastpass
+brew cask install backblaze
+brew cask install iterm2
+brew cask install vagrant
+brew cask install virtualbox
+brew cask install tunnelbear
+brew cask install sequel-pro
